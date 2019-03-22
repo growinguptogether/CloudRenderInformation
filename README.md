@@ -18,3 +18,7 @@
 - [构建集群渲染系统与云渲染平台的软件](https://wenku.baidu.com/view/14951568680203d8cf2f2456)
 
 ## 期刊文章
+
+## 开原项目
+
+- Equalizer：https://github.com/Eyescale/Equalizer 创建部署并发OpenGL应用
